@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "115073090177",
+    "project_id": "caramel-galaxy-293718",
+    "storage_bucket": "caramel-galaxy-293718.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115073090177:android:7a0b2acc5bdc92a52dc380",
+        "android_client_info": {
+          "package_name": "com.example.authentification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115073090177-aomhr34o43i1o6nn10jtjfu8nl66csm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkkfh83VTJ74FslTh86tWbOLKVByCYeWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115073090177-aomhr34o43i1o6nn10jtjfu8nl66csm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
